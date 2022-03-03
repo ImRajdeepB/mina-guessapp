@@ -1,4 +1,4 @@
-# Mina Snapp: Minasnapp
+# Mina Snapp: GuessApp
 
 This template uses TypeScript.
 
